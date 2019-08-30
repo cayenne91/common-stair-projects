@@ -1,2 +1,2 @@
 # common-stair-projects
-Building cost estimate spreadsheets for projects in Oxford Terrace common stair
+Building cost estimate spreadsheets for projects in common stair
